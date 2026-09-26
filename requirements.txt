@@ -1,0 +1,13 @@
+textblob
+gradio
+transformers
+torch
+librosa
+soundfile
+opencv-python
+deepface
+tensorflow
+numpy
+fer
+langdetect
+sentencepiece
